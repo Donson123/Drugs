@@ -1878,7 +1878,7 @@
       </node>
       <node id="3183" net="1">
         <attribute name="Name" id="3184" net="1">
-          <![CDATA[Comb4]]>
+          <![CDATA[IKK_MAPK]]>
           <graphics count="1">
             <graphic xoff="25.00" yoff="20.00" x="645.00" y="720.00" id="3185" net="1" show="1" grparent="3199" state="1" pen="0,0,0" brush="255,255,255" thickness="1"/>
           </graphics>
